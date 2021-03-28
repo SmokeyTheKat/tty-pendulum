@@ -1,2 +1,2 @@
 # tty-pendulum
-pendulum in the tty
+double pendulum in the tty
